@@ -1,0 +1,25 @@
+[{
+  "id": 300619,
+  "name": "Sivas",
+  "country": "TR",
+  "coord": {
+    "lon": 37.016109,
+    "lat": 39.748329
+  }
+},{
+  "id": 745042,
+  "name": "İstanbul",
+  "country": "TR",
+  "coord": {
+    "lon": 28.983311,
+    "lat": 41.03508
+  }
+}, {
+  "id": 323784,
+  "name": "Ankara",
+  "country": "TR",
+  "coord": {
+    "lon": 32.833328,
+    "lat": 39.916672
+  }
+}]
